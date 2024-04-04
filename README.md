@@ -1,9 +1,9 @@
 # JogaYJoga
 
-- account : https://github.com/eriksoaress/account
-- account.resource : https://github.com/GustavoAntony/ingressify.account-resource
-- auth : https://github.com/eriksoaress/ingressify.auth
-- auth.resource : https://github.com/eriksoaress/ingressify.auth-resource
-- gateway : https://github.com/eriksoaress/ingressify.gateway
-- docker.api : https://github.com/eriksoaress/ingressify.docker.api
-- discovery : https://github.com/GustavoAntony/ingressify.discovery
+- account : https://github.com/eriksoaress/jogayjoga.account
+- account.resource : https://github.com/GustavoAntony/jogayjoga.account-resource
+- auth : https://github.com/eriksoaress/jogayjoga.auth
+- auth.resource : https://github.com/eriksoaress/jogayjoga.auth-resource
+- gateway : https://github.com/eriksoaress/jogayjoga.gateway
+- docker.api : https://github.com/eriksoaress/jogayjoga.docker.api
+- discovery : https://github.com/GustavoAntony/jogayjoga.discovery
