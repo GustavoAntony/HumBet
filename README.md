@@ -1,4 +1,4 @@
-# Ingressify
+# JogaYJoga
 
 - account : https://github.com/eriksoaress/account
 - account.resource : https://github.com/GustavoAntony/ingressify.account-resource
