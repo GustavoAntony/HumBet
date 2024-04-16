@@ -13,3 +13,11 @@
 - sport-resource : https://github.com/eriksoaress/jogayjoga.sport-resource
 - group : https://github.com/eriksoaress/jogayjoga.group
 - group-resource : https://github.com/eriksoaress/jogayjoga.group-resource
+
+DOCUMENTATION:
+
+- http://localhost:8080/court/swagger-ui.html
+- http://localhost:8080/auth/swagger-ui.html
+- http://localhost:8080/account/swagger-ui.html
+- http://localhost:8080/group/swagger-ui.html
+- http://localhost:8080/sport/swagger-ui.html
