@@ -13,6 +13,7 @@
 - sport-resource : https://github.com/eriksoaress/jogayjoga.sport-resource
 - group : https://github.com/eriksoaress/jogayjoga.group
 - group-resource : https://github.com/eriksoaress/jogayjoga.group-resource
+- ops: https://github.com/eriksoaress/jogayjoga.ops
 
 DOCUMENTATION:
 
