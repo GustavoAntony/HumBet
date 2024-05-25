@@ -14,6 +14,9 @@
 - group : https://github.com/eriksoaress/jogayjoga.group
 - group-resource : https://github.com/eriksoaress/jogayjoga.group-resource
 - ops: https://github.com/eriksoaress/jogayjoga.ops
+- db: https://github.com/GustavoAntony/jogayjoga.db
+- front-end: https://github.com/GustavoAntony/jogayjoga.front-end
+
 
 DOCUMENTATION:
 
