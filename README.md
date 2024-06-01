@@ -94,7 +94,7 @@ O padrão de projeto de Gateway com Load Balance é utilizado para gerenciar o t
 
 1. **Observabilidade:**
    - **Descrição:** Ferramentas e práticas para monitoramento e logging do sistema.
-   - **Tecnologias:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana).
+   - **Tecnologias:** Prometheus e Grafana.
 
 2. **Jenkins:**
    - **Descrição:** Ferramenta de automação para integração contínua e entrega contínua (CI/CD).
